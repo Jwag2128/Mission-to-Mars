@@ -2,7 +2,7 @@
 
 # Overview
 
-## The purpose of this challenge was to gather information on planet Mars using webscraping.  We used Splinter, Beatiful Soup, Python and MongoDB to visit 4 different websites, store data and display it on a web application.  The analysis covered scraping full resolution images and titles, a table of facts about the planet and retrieving the latest news article.
+## The purpose of this challenge was to gather information on planet Mars using webscraping.  We used Splinter, Beautiful Soup, Python and MongoDB to visit 4 different websites, store data and display it on a web application.  The analysis covered scraping full resolution images and titles, a table of facts about the planet and retrieving the latest news article.
 
 ![web_app_screenshot](https://user-images.githubusercontent.com/106286533/183313483-407b6122-7f9d-453b-80eb-6c7fd04ff10f.png)
 ![hemi1](https://user-images.githubusercontent.com/106286533/183313528-4c98c4a8-f65d-491b-a321-7daf8e2b0416.png)
